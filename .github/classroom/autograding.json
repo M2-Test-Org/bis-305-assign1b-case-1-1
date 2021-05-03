@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Assign1Test",
+      "setup": "dotnet run --project csharpassignment.csproj",
+      "run": "dotnet test csharpassignment.csproj",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    }
+  ]
+}
